@@ -1,0 +1,12 @@
+body {font-family:arial; background:#B197C6;}
+h1 {text-align:center; margin: 10px; padding: 10px; border: 2px ;border-width:20px; border-radius: 20px; background: #490FD5; font-size:45px;}
+h2 {text-align:right; font-size:35px; margin: 10px; padding: 10px; border: 2px ;border-width:auto; border-radius: 20px; background: #F933FF;}
+#joaquin {padding: 10px; margin: 10px; border: 2px solid black; background-color:#B197C6; border-radius: 10px; float: right; width: 250px; height: 300px; top:200mm; position:absolute; left:1150px; top:225px}
+p {font-size:30px;}
+ul {font-size:30px;}
+#datos {margin: 10px; padding: 10px; border: 2px ;border-width:20px; border-radius: 20px; background: #33D2FF;}
+#academica{margin: 10px; padding: 10px; border: 2px ;border-width:20px; border-radius: 20px; background: #33D2FF;}
+#complementaria{margin: 10px; padding: 10px; border: 2px ;border-width:20px; border-radius: 20px; background: #33D2FF;}
+#idiomas{margin: 10px; padding: 10px; border: 2px ;border-width:20px; border-radius: 20px; background: #33D2FF;}
+#experiencia{margin: 10px; padding: 10px; border: 2px ;border-width:20px; border-radius: 20px; background:#33D2FF;}
+#interes{margin: 10px; padding: 10px; border: 2px ;border-width:20px; border-radius: 20px; background: #33D2FF;}
